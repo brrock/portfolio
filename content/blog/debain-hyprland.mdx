@@ -4,23 +4,29 @@ description: This is my guide on how to install hyprland on debain
 date: 2024-08-09
 published: true
 ---
-# Introduction 
+
+# Introduction
+
 This is my simple guide on how to install Hyprland, an Wayland compositer and window manager which I daily drive, on Debain Linux and Ubuntu.
 
-# Install 
+# Install
+
 Either follow the steps below or read the official hyprland [docs](https://wiki.hyprland.org/Getting-Started/Installation/) which I have contributed to my self and the steps are the same.
 On Debain make sure you have the trixie repos on (If you don't know how [Click here](Https://techblog.benjyross.xyz/blog/debian-trixie-upgrade-guide)) and run this in terminal. Note: You need a login manager (lightdm doesn't work) and it will install kitty a terminal emulator which hyprland uses.
+
 <Callout type="warning">
     Don't do the on Ubuntu 24.04 it doesn't work.
 </Callout>
 
 T
+
 ```bash
 # debian
 sudo apt install hyprland kitty -y
 # Ubuntu - this enables universe repos btw 
 sudo add-apt-repository universe && sudo apt-get update && sudo apt-get install -y hyprland
 ```
-# To summarise 
-This is a simple, easy way to install hyprland on debain. Hyprland looks dull without dotfiles - [here are mine](Https://GitHub.com/brrock/dotfiles) (they are still in development 
-)
+
+# To summarise
+
+This is a simple, easy way to install hyprland on debain. Hyprland looks dull without dotfiles - [here are mine](Https://GitHub.com/brrock/dotfiles) (they are still in development )
