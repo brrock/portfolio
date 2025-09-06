@@ -29,7 +29,7 @@ export default async function AboutPage() {
 					</p>
 				</div>
 				<p className="text-muted-foreground text-lg py-4">
-					I'm a teenage fullstack developer from the UK with a passion for creating web applications
+					I'm a fullstack developer from the UK with a passion for creating web applications
 					that are both functional and aesthetically pleasing. I always use the
 					latest technologies and best practices to ensure that my projects are
 					up to date and efficient. I'm also comitted to open source, and I'm
