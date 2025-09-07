@@ -32,7 +32,7 @@ export default async function AboutPage() {
 					I'm a fullstack developer from the UK with a passion for creating web applications
 					that are both functional and aesthetically pleasing. I always use the
 					latest technologies and best practices to ensure that my projects are
-					up to date and efficient. I'm also comitted to open source, and I'm
+					up to date and efficient. I'm also committed to open source, and I'm
 					always looking for ways to contribute to the community.
 				</p>
 			</div>
